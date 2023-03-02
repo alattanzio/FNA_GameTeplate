@@ -1,0 +1,6 @@
+[submodule "FNA3D"]
+	path = FNA3D
+	url = https://github.com/FNA-XNA/FNA3D.git
+[submodule "FNA"]
+	path = FNA
+	url = https://github.com/FNA-XNA/FNA
